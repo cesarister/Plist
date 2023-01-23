@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowPairing</key>
+	<true/>
+	<key>AwaitDeviceConfigured</key>
+	<false/>
+	<key>CloudConfigurationUIComplete</key>
+	<true/>
+	<key>ConfigurationSource</key>
+	<integer>2</integer>
+	<key>ConfigurationWasApplied</key>
+	<true/>
+	<key>IsMDMUnremovable</key>
+	<false/>
+	<key>IsMandatory</key>
+	<false/>
+	<key>IsSupervised</key>
+	<true/>
+	<key>OrganizationCountry</key>
+	<string>GB</string>
+	<key>OrganizationMagic</key>
+	<string>DFC0AAB3-42D9-4626-AC0B-99D735D1FC89</string>
+	<key>OrganizationName</key>
+	<string>Saunders Tech</string>
+	<key>SupervisorHostCertificates</key>
+	<array>
+		<data>
+		MIIDhzCCAm+gAwIBAgIJAPLGRRPZKqktMA0GCSqGSIb3DQEBCwUAMG0xRjBE
+		BgNVBAMMPWlNYXppbmc6IFNhdW5kZXJzIFRlY2ggKERGQzBBQUIzLTQyRDkt
+		NDYyNi1BQzBCLTk5RDczNUQxRkM4OSkxFjAUBgNVBAoMDVNhdW5kZXJzIFRl
+		Y2gxCzAJBgNVBAYTAkdCMB4XDTIxMTIwNjE2MzU1MloXDTQxMTIwMTE2MzU1
+		MlowbTFGMEQGA1UEAww9aU1hemluZzogU2F1bmRlcnMgVGVjaCAoREZDMEFB
+		QjMtNDJEOS00NjI2LUFDMEItOTlENzM1RDFGQzg5KTEWMBQGA1UECgwNU2F1
+		bmRlcnMgVGVjaDELMAkGA1UEBhMCR0IwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+		DwAwggEKAoIBAQCRQCczYpW5NMnAmZ0hhpyhvv92CJNcCA/rrA0Ms88Vr8Je
+		fEdO3WKGlfWERw7klUmOt/wvpIjA/NT8+ElsdI+jPznqLW7P/DhgGYy+lg9v
+		0+ptqGpwmg+ZBEuKxUm2bCJ5viSZH9nUOgJ8HlUaLEX2cGFzx1UD8TSDHh4d
+		wJFyeqMHmdmkXkbxg/Kda6YhBTXClfMiF8elHEcHeJNV+dC2cfSbvTEeds18
+		8nYGI9QSOtkoNKB8p+tuTn0aF8awhIxNlUqDh7YG3HGo+IjsqIuAAC8zJ+jW
+		1X6/EaIM+7Ug5p13KInwzdk4ZhOd/byeUBCqo15zUIKPudLcmNNKv0+xAgMB
+		AAGjKjAoMA4GA1UdDwEB/wQEAwIHgDAWBgNVHSUBAf8EDDAKBggrBgEFBQcD
+		AzANBgkqhkiG9w0BAQsFAAOCAQEAU75ZwrHH9w8zcQdO745E9EkPlTKb+fTm
+		dCQ60MOEUsBWeC/MKtWYYJQfpYVXd/5HAkt1vLtnHjduypWY3p3LMaH8GON6
+		zC6g29/AYmP2elA8NkrxfB0jFn0Vq8iUhntrsR36IN+jXjNpU+3gQHso7mr7
+		FH5PnI915j1UlUJZJ+tDbGxfl7P+ScwI5I9BTDxG+UN0cQnObkP0azPyAzeM
+		8LUqUR22pnKeF7mTUcxgRFuhS8m1rlVXtOJ0MBLF1bTxrUu7d+Sk0/lEkqaz
+		BJEFvXKS7JrNCavSAtyn1MpyJIQHTttgR+GzQC612mg6iW1LNN0MKsx51b+u
+		oLRngg8b/Q==
+		</data>
+	</array>
+</dict>
+</plist>
